@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://35.154.205.246/gateway",
+  baseURL: "https://ankur.freedynamicdns.net/gateway",
 });
 
 
